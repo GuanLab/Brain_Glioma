@@ -232,5 +232,5 @@ We trained our models on the NVIDIA GPUs that we have in the lab, which include 
 
 In this competition, we tried out different ways to preprocess data and combine information from different types of data, and thus, we learned a lot in this aspect. However, we feel that there is still a room for improvement. For example, we observed that most of our error still hails from a select group of patients. Altogether, our proposed model demonstrated its potential and scope in segmenting multi-modalities of brain tumor and it can be of immediate use to neuro-oncologists or radiologists, improving the diagnosis of brain tumor in terms of not only speed but also accuracy. 
 
-UPDATE (August 28): the code is now available on GitHub: [https://github.com/317070/kaggle-heart](https://github.com/317070/kaggle-heart)
+Github: The code is now available on GitHub: [https://github.com/GuanLab/Brain_Glioma](https://github.com/GuanLab/Brain_Glioma)
 
