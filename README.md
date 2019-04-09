@@ -181,19 +181,19 @@ With the decent segmentation performance from three-region model, we conducted f
         <th>T1</th>
         <th>T2</th>
         <th>T1ce</th>
-        <th>T2-FLAIR</th>
     </tr>
     <tr>
         <th><img src='./gif_files/t_one.gif' alt='T1'></th>
         <th><img src='./gif_files/t_two.gif' alt='T2'></th>
         <th><img src='./gif_files/t_one_ce.gif' alt='T1ce'></th>
-        <th><img src='./gif_files/t_two_flair.gif' alt='T1-FLAIR'></th>
     </tr>
-    <tr>    
+    <tr>
+        <th>T2-FLAIR</th>    
         <th>Label</th>
         <th>Whole-tumor-only</th>
     </tr>
     <tr>
+        <th><img src='./gif_files/t_two_flair.gif' alt='T1-FLAIR'></th>
         <th><img src='./gif_files/se.gif' alt='Ground truth'></th>
         <th><img src='./gif_files/la_whole.gif' alt='Whole-tumor-only model'></th>
     </tr>
