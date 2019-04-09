@@ -189,7 +189,6 @@ With the decent segmentation performance from three-region model, we conducted f
         <th><img src='./gif_files/t_one_ce.gif' alt='T1ce'></th>
         <th><img src='./gif_files/t_two_flair.gif' alt='T1-FLAIR'></th>
     </tr>
-
     <tr>    
         <th>Label</th>
         <th>Whole-tumor-only</th>
