@@ -160,7 +160,6 @@ In the validation dataset, our three-region model achieved mean dice scores of 0
         <th><img src='./gif_files/t_two.gif' alt='T2'></th>
         <th><img src='./gif_files/t_one_ce.gif' alt='T1ce'></th>
     </tr>
-
     <tr>    
         <th>T2-FLAIR</th>
         <th>Ground Truth</th>
