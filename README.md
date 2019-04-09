@@ -1,17 +1,10 @@
----
-layout:     post
-title:      "Multimodal Brain Tumor Segmentation Using U-Net"
-date:       2018-08-21 00:00:00
-author:     "Shaocheng Wu, Hongyang Li, Yuanfang Guan"
-header-img: "img/heart/heart.jpg"
-comments: true
----
+
 
 The Multimodal Brain Tumor Segmentation Challenge 2018 [(BraTS 2018)](https://www.med.upenn.edu/sbia/brats2018.html), a machine learning competition where the goal was to automatically segment brain glioma from multimodal MRI scans, has just ended. We participated with a team of 3 members from the [Guan lab](http://guanlab.ccmb.med.umich.edu/research) at University of Michigan at Ann Arbor and finished 2nd!
 
 <!--more-->
 
-Our team consisted of [Yuanfang Guan](https://medicine.umich.edu/dept/dcmb/yuanfang-guan-phd), [Hongyang Li](https://medicine.umich.edu/dept/dcmb/hongyang-li), and [Shaocheng Wu](http://www-personal.umich.edu/~shaochwu/). It's also a follow-up of last year's team [≋ Deep Sea ≋](http://benanne.github.io/2015/03/17/plankton.html), which finished in first place for the [First National Data Science Bowl](https://www.kaggle.com/c/datasciencebowl).
+Our team consisted of [Yuanfang Guan](https://medicine.umich.edu/dept/dcmb/yuanfang-guan-phd), [Hongyang Li](https://medicine.umich.edu/dept/dcmb/hongyang-li), and [Shaocheng Wu](http://www-personal.umich.edu/~shaochwu/). 
 
 <br></br>
 ## Overview
